@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Moritz Schüll"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
