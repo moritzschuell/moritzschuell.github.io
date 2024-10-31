@@ -8,7 +8,7 @@ date: 2022-07-05
 venue: '2022 Pacific Asia Conference on Information Systems (PACIS 2022)'
 slidesurl: 
 paperurl: 'http://moritzschuell.github.io/files/paper_pacis2022.pdf'
-citation: 'Philipp, P., Schüll, M., Matthes, F. (2022). Investigating the Establishment of Goals in Large-Scale Agile Development. PACIS 2022 Proceedings. https://aisel.aisnet.org/pacis2022/164'
+citation: 'Philipp, P., Schüll, M., Matthes, F. (2022). Investigating the Establishment of Goals in Large-Scale Agile Development. PACIS 2022 Proceedings.'
 ---
 
 Abstract

@@ -8,7 +8,7 @@ date: 2024-09-05
 venue: 'Wirtschaftsinformatik & Management'
 slidesurl: 
 paperurl: 'http://moritzschuell.github.io/files/paper_wum2024_ai.pdf'
-citation: 'Protschky, D., Schüll, M., Urbach, N. (2024). Governance von künstlicher Intelligenz – Eine Methode zur Transformation vorhandener Governance-Mechanismen in Unternehmen. In: Wirtschaftsinformatik & Management. https://doi.org/10.1365/s35764-024-00531-4'
+citation: 'Protschky, D., Schüll, M., Urbach, N. (2024). Governance von künstlicher Intelligenz – Eine Methode zur Transformation vorhandener Governance-Mechanismen in Unternehmen. In: Wirtschaftsinformatik & Management.'
 ---
 
 Abstract

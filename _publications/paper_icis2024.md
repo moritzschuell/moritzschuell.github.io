@@ -8,8 +8,7 @@ date: 2024-12-17
 venue: 'Forty-Fifth International Conference on Information Systems (ICIS 2024)'
 slidesurl: 'http://moritzschuell.github.io/files/slides_icis2024.pdf'
 paperurl: 'http://moritzschuell.github.io/files/paper_icis2024.pdf'
-citation: 'Mayer, V., Schüll, M., Aktürk, O., Guggenberger, T. (2024). Designing Human-AI Hybrids: Challenges and Good Practices from a Multiple Case Study. ICIS 2024 Proceedings.
-https://aisel.aisnet.org/icis2024/aiinbus/aiinbus/3'
+citation: 'Mayer, V., Schüll, M., Aktürk, O., Guggenberger, T. (2024). Designing Human-AI Hybrids: Challenges and Good Practices from a Multiple Case Study. ICIS 2024 Proceedings.'
 ---
 
 Abstract

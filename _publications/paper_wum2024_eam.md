@@ -3,12 +3,12 @@ title: "Etablierung von Enterprise Architecture Management in kleinen und mittle
 collection: publications
 category: manuscripts
 permalink: /publication/paper_wum2024_eam
-excerpt: 'TLDR: We conduct a case study how to establish an EAM function at a medium-sized german manufacturing company'
+excerpt: 'TLDR: We conduct a case study on how to establish an EAM function at a medium-sized german manufacturing company'
 date: 2024-09-11
 venue: 'Wirtschaftsinformatik & Management'
 slidesurl: 
 paperurl: 'http://moritzschuell.github.io/files/paper_wum2024_eam.pdf'
-citation: 'Meierhöfer, S., Schüll, M., Buck, C. (2024). Etablierung von Enterprise Architecture Management in kleinen und mittleren Unternehmen: Erkenntnisse aus einer Fallstudie. In: Wirtschaftsinformatik & Management. https://doi.org/10.1365/s35764-024-00530-5'
+citation: 'Meierhöfer, S., Schüll, M., Buck, C. (2024). Etablierung von Enterprise Architecture Management in kleinen und mittleren Unternehmen: Erkenntnisse aus einer Fallstudie. In: Wirtschaftsinformatik & Management.'
 ---
 
 Abstract

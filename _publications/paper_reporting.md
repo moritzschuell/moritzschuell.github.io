@@ -8,7 +8,7 @@ date: 2023-07-11
 venue: 'Information Systems and e-Business Management'
 slidesurl: 
 paperurl: 'http://moritzschuell.github.io/files/paper_reporting.pdf'
-citation: 'Schüll, M., Hofmann, P., Philipp, P., Matthes, F. (2023). Reporting in large-scale agile organizations: insights and recommendations from a case study in software development. In: Information Systems and e-Business Management. https://doi.org/10.1007/s10257-023-00643-1'
+citation: 'Schüll, M., Hofmann, P., Philipp, P., Matthes, F. (2023). Reporting in large-scale agile organizations: insights and recommendations from a case study in software development. In: Information Systems and e-Business Management.'
 ---
 
 Abstract
