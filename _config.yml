@@ -21,7 +21,7 @@ repository               : "moritzschuell/moritzschuell.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Moritz Schüll"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Information Systems"
