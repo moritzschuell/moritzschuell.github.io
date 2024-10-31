@@ -2,13 +2,13 @@
 title: "Reporting in large-scale agile organizations: Insights and recommendations from a case study in software development"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: /publication/paper_reporting
+excerpt: 'TLDR: We investigate how to reconcile agile working with reporting structures'
+date: 2023-07-11
 venue: 'Information Systems and e-Business Management'
 slidesurl: 
-paperurl: 'http://academicpages.github.io/files/paper_reporting.pdf'
-citation: 'Schüll, M., Hofmann, P., Philipp, P., Matthes, F. (2024) Reporting in large-scale agile organizations: insights and recommendations from a case study in software development. In: Information Systems and e-Business Management. https://doi.org/10.1007/s10257-023-00643-1'
+paperurl: 'http://moritzschuell.github.io/files/paper_reporting.pdf'
+citation: 'Schüll, M., Hofmann, P., Philipp, P., Matthes, F. (2023). Reporting in large-scale agile organizations: insights and recommendations from a case study in software development. In: Information Systems and e-Business Management. https://doi.org/10.1007/s10257-023-00643-1'
 ---
 
 Abstract
