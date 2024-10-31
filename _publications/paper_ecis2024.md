@@ -6,6 +6,7 @@ permalink: /publication/paper_ecis2024
 excerpt: 'TLDR: We propose a framework to conceptualize intelligent agents in work systems'
 date: 2024-06-18
 venue: 'Thirty-Second European Conference on Information Systems (ECIS 2024)'
+slidesurl: 'http://moritzschuell.github.io/files/slides_ecis2024.pdf'
 paperurl: 'http://moritzschuell.github.io/files/paper_ecis2024.pdf'
 citation: 'Jakob, A., Schüll, M., Hofmann, P., Urbach, N. (2024). Teaming Up with Intelligent Agents — A Work System Perspective on the Collaboration with Intelligent Agents. In: ECIS 2024 Proceedings. https://aisel.aisnet.org/ecis2024/track06_humanaicollab/track06_humanaicollab/4'
 ---
