@@ -9,12 +9,80 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- Taken from Yann Dubois https://github.com/YannDubs/YannDubs.github.io/blob/master/_pages/cv.md -->
+
 Education
 ======
-* __Ph.D in Information Systems__, [University of Bayreuth](https://www.uni-bayreuth.de) (ongoing)
-* __M.Sc. in Information Systems__, [Technical University of Munich](https://www.tum.de), 2021
-* __Erasmus semester in Computer Science__, [KU Leuven](https://www.kuleuven.be), 2020
-* __B.Sc. in Information Systems__, Technical University of Munich, 2019
+<!-- PhD -->
+<div style="display:flex;">
+
+  <div style="flex:0.5; padding-right:5%">
+    <img src="{{ site.url }}/images/resume/uni_bayreuth_logo.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:4;">
+    <p style="margin:0px">
+      <b style="font-size: 130%;">University of Bayreuth</b>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">ongoing</span>
+    </p>
+    PhD in Information Systems
+  </div>
+</div>
+<hr style="height:1em; margin:0em; visibility:hidden;" />
+
+<!-- MSc -->
+<div style="display:flex;">
+
+  <div style="flex:0.5; padding-right:5%">
+    <img src="{{ site.url }}/images/resume/tum_logo.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:4;">
+    <p style="margin:0px">
+      <b style="font-size: 130%;">Technical University of Munich</b>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">2019 - 2021</span>
+    </p>
+    M.Sc. in Information Systems
+    <div style="color:#7a7a7a">
+      Passed with high distinction
+    </div>
+  </div>
+</div>
+<hr style="height:1em; margin:0em; visibility:hidden;" />
+
+<!-- Erasmus -->
+<div style="display:flex;">
+
+  <div style="flex:0.5; padding-right:5%">
+    <img src="{{ site.url }}/images/resume/tum_logo.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:4;">
+    <p style="margin:0px">
+      <b style="font-size: 130%;">KU Leuven</b>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">2020</span>
+    </p>
+    Erasmus semester in Computer Science
+  </div>
+</div>
+<hr style="height:1em; margin:0em; visibility:hidden;" />
+
+<!-- BSc -->
+<div style="display:flex;">
+
+  <div style="flex:0.5; padding-right:5%">
+    <img src="{{ site.url }}/images/resume/kuleuven_logo.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:4;">
+    <p style="margin:0px">
+      <b style="font-size: 130%;">Technical University of Munich</b>
+      <span style="float:right; font-size:80%; color:#7a7a7a;">2016 - 2019</span>
+    </p>
+    B.Sc. in Information Systems
+  </div>
+</div>
+<hr style="height:1em; margin:0em; visibility:hidden;" />
 
 Work experience
 ======
