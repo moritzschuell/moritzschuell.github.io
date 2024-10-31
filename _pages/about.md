@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello!
+Hey there!
 
 I'm a Phd student in Information Systems at [University of Bayreuth](https://www.wi.uni-bayreuth.de/de/index.html). I do my research at [FIM Research Center for Information Management](https://www.fim-rc.de/wiss_mitarbeitende/moritz-schuell/) and work as a full-time technology and IT-strategy consultant at [Fraunhofer FIT](https://www.wi.fit.fraunhofer.de). In my research and professional work, I focus on topics around enterprise architecture management, IT-strategy, and the management of artificial-intelligence-based applications.
 
