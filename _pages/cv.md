@@ -80,11 +80,11 @@ Work experience
 * __04/2020 - 09/2021__: Participant in the Fastlane Program
   * [BMW AG](https://www.bmw.de)
   * Deployment in enterprise architecture management team, with a focus on architecture principles for instracture as code (in particular Terraform)
-  * Deployment in IT governance team, with a focus on the design of an approach to align project-centered initiatives with the organizational structures of product-centered daily business
+  * Deployment in IT governance team, with a focus on the design of an approach to align project-centered initiatives and the organizational structures of product-centered daily business
   * Supervision of an enterprise-wide community focused on discussing and documenting good practices for scaling agile work
 
 * __07/2020 - 12/2020__: Research Assistant
-  * [Chair for Software-Engineering of Business Information Systems](https://wwwmatthes.in.tum.de), TU Munich
+  * [Chair for Software-Engineering for Business Information Systems](https://wwwmatthes.in.tum.de), TU Munich
   * Assistance on data collection and data analysis in the project "Scaled Agility in Large IT Organizations", with a focus on identifying good practices for scaling agile work from case studies with multiple industry partners
   
 * __03/2019 - 02/2020__: Software Engineer
