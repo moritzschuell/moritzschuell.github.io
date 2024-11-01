@@ -19,7 +19,7 @@ Education
 <div style="display:flex;">
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">University of Bayreuth</b>
+      <b style="font-size: 110%;">University of Bayreuth</b>
       <span style="float:right; font-size:80%; color:#7a7a7a;">ongoing</span>
     </p>
     PhD in Information Systems
@@ -31,7 +31,7 @@ Education
 <div style="display:flex;">
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">Technical University of Munich</b>
+      <b style="font-size: 110%;">Technical University of Munich</b>
       <span style="float:right; font-size:80%; color:#7a7a7a;">2019 - 2021</span>
     </p>
     M.Sc. in Information Systems
@@ -46,7 +46,7 @@ Education
 <div style="display:flex;">
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">KU Leuven</b>
+      <b style="font-size: 110%;">KU Leuven</b>
       <span style="float:right; font-size:80%; color:#7a7a7a;">2020</span>
     </p>
     Erasmus semester in Computer Science
@@ -58,7 +58,7 @@ Education
 <div style="display:flex;">
   <div style="flex:4;">
     <p style="margin:0px">
-      <b style="font-size: 130%;">Technical University of Munich</b>
+      <b style="font-size: 110%;">Technical University of Munich</b>
       <span style="float:right; font-size:80%; color:#7a7a7a;">2016 - 2019</span>
     </p>
     B.Sc. in Information Systems
