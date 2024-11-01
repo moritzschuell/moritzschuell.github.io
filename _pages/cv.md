@@ -11,6 +11,8 @@ redirect_from:
 
 <!-- Taken from Yann Dubois https://github.com/YannDubs/YannDubs.github.io/blob/master/_pages/cv.md -->
 
+Last updated November 2024.
+
 Education
 ======
 <!-- PhD -->
