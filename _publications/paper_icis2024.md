@@ -1,5 +1,5 @@
 ---
-title: "PDesigning Human-AI Hybrids: Challenges and Good Practices from a Multiple Case Study"
+title: "Designing Human-AI Hybrids: Challenges and Good Practices from a Multiple Case Study"
 collection: publications
 category: conferences
 permalink: /publication/paper_icis2024
